@@ -1,4 +1,4 @@
-# F21 IEOR 142 Final Project
+# ieor142
 
 👥 Group Members: Priya Kamdar, Nirmol Kaur, Harry Li, Ananya Raghavan, and Nayan Chavan 
 
